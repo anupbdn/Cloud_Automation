@@ -1,0 +1,173 @@
+    - '315158405157':
+        ellucian_account_id: '10093'
+        region: us-west-2
+        shortname: WVMCC        
+        vpc_id: "vpc-ccb684a8"        
+        pub_sub_id_1: "subnet-096b4a6d"
+        pub_sub_id_2: "subnet-59364f2f"
+        listeners: ["7100"]
+        services:
+            - service-touchnet: https://git.ellucian.com/scm/cloudops/service-touchnet.git@master
+        
+
+    - '226690833714':
+        ellucian_account_id: '10094'
+        region: us-east-1
+        shortname: WILKS        
+        vpc_id: "vpc-b01db2d6"        
+        pub_sub_id_1: "subnet-2848f914"
+        pub_sub_id_2: "subnet-716d3f38"
+        listeners: ["7100"]
+        services:
+            - service-touchnet: https://git.ellucian.com/scm/cloudops/service-touchnet.git@master
+
+    - '723081160753':
+        ellucian_account_id: '10104'
+        region: us-west-2
+        shortname: SSKYS        
+        vpc_id: "vpc-d308bdb7"        
+        pub_sub_id_1: "subnet-60e65604"
+        pub_sub_id_2: "subnet-9934feef"
+        listeners: ["7100"]
+        services:
+            - service-touchnet: https://git.ellucian.com/scm/cloudops/service-touchnet.git@master
+
+    - '145361183095':
+        ellucian_account_id: '10131'
+        region: us-east-1
+        shortname: CCSCU        
+        vpc_id: "vpc-8fd385e9"        
+        pub_sub_id_1: "subnet-3fd7ee12"
+        pub_sub_id_2: "subnet-0808e140"
+        listeners: ["7100"]
+        services:
+            - service-touchnet: https://git.ellucian.com/scm/cloudops/service-touchnet.git@master
+
+    - '902177075404':
+        ellucian_account_id: '10037'
+        region: eu-west-1
+        shortname: ADA        
+        vpc_id: "vpc-a56bc7c1"        
+        pub_sub_id_1: "subnet-751dd52d"
+        pub_sub_id_2: "subnet-2aae264e"
+        listeners: ["7100"]
+        services:
+            - service-touchnet: https://git.ellucian.com/scm/cloudops/service-touchnet.git@master
+
+    - '756233523065':
+        ellucian_account_id: '10143'
+        region: us-east-1
+        shortname: BHTC        
+        vpc_id: "vpc-cd325db4"        
+        pub_sub_id_1: "subnet-9101eef5"
+        pub_sub_id_2: "subnet-3b46dc17"
+
+    - '537037765769':
+        ellucian_account_id: '10115'
+        region: us-east-1
+        shortname: CABRI        
+        vpc_id: "vpc-24d6085d"        
+        pub_sub_id_1: "subnet-fcdbde99"
+        pub_sub_id_2: "subnet-cc13b4e0"
+        listeners: ["7100"]
+        services:
+            - service-touchnet: https://git.ellucian.com/scm/cloudops/service-touchnet.git@master
+
+    - '341834480823':
+        ellucian_account_id: '10130'
+        region: us-east-1
+        shortname: ECSCU        
+        vpc_id: "vpc-5c5a023a"        
+        pub_sub_id_1: "subnet-8d5dabc5"
+        pub_sub_id_2: "subnet-a71e23fc"
+        listeners: ["7100"]
+        services:
+            - service-touchnet: https://git.ellucian.com/scm/cloudops/service-touchnet.git@master
+
+    - '202078369881':
+        ellucian_account_id: '10056'
+        region: us-east-1
+        shortname: IAUPR        
+        vpc_id: "vpc-d473bcb2"        
+        pub_sub_id_1: "subnet-24a5dc6d"
+        pub_sub_id_2: "subnet-b7af2cec"
+        listeners: ["7100"]
+        services:
+            - service-touchnet: https://git.ellucian.com/scm/cloudops/service-touchnet.git@master
+
+    - '135780608106':
+        ellucian_account_id: '10059'
+        region: us-east-1
+        shortname: JSU        
+        vpc_id: "vpc-85ebf6e2"        
+        pub_sub_id_1: "subnet-995efbb4"
+        pub_sub_id_2: "subnet-b755c1fe"
+        listeners: ["7100"]
+        services:
+            - service-touchnet: https://git.ellucian.com/scm/cloudops/service-touchnet.git@master
+
+    - '051493558128':
+        ellucian_account_id: '10065'
+        region: us-east-1
+        shortname: MIDDC        
+        vpc_id: "vpc-71246c16"        
+        pub_sub_id_1: "subnet-84f91eb8"
+        pub_sub_id_2: "subnet-e48453ad"
+        listeners: ["7100"]
+        services:
+            - service-touchnet: https://git.ellucian.com/scm/cloudops/service-touchnet.git@master
+
+    - '674738870089':
+        ellucian_account_id: '10128'
+        region: us-east-1
+        shortname: SCSCU        
+        vpc_id: "vpc-2a11334c"        
+        pub_sub_id_1: "subnet-e5696cbe"
+        pub_sub_id_2: "subnet-9e7f3ffb"
+        listeners: ["7100"]
+        services:
+            - service-touchnet: https://git.ellucian.com/scm/cloudops/service-touchnet.git@master
+
+    - '686925613687':
+        ellucian_account_id: '10150'
+        region: us-east-1
+        shortname: STTHM        
+        vpc_id: "vpc-3189fd48"        
+        pub_sub_id_1: "subnet-8464fcde"
+        pub_sub_id_2: "subnet-ebd63d8f"
+        listeners: ["7100"]
+        services:
+            - service-touchnet: https://git.ellucian.com/scm/cloudops/service-touchnet.git@master
+
+    - '822233218728':
+        ellucian_account_id: '10120'
+        region: us-west-2
+        shortname: UGF        
+        vpc_id: "vpc-b77717d0"        
+        pub_sub_id_1: "subnet-d72893b0"
+        pub_sub_id_2: "subnet-d533ee9c"
+        listeners: ["7100"]
+        services:
+            - service-touchnet: https://git.ellucian.com/scm/cloudops/service-touchnet.git@master
+
+    - '613522681749':
+        ellucian_account_id: '10088'
+        region: us-west-2
+        shortname: UOP        
+        vpc_id: "vpc-b5158bd2"        
+        pub_sub_id_1: "subnet-c0e655a7"
+        pub_sub_id_2: "subnet-9267addb"
+        listeners: ["7100"]
+        services:
+            - service-touchnet: https://git.ellucian.com/scm/cloudops/service-touchnet.git@master
+
+    - '301860772089':
+        ellucian_account_id: '10129'
+        region: us-east-1
+        shortname: WCSCU        
+        vpc_id: "vpc-2b4c6e4d"        
+        pub_sub_id_1: "subnet-1584be4e"
+        pub_sub_id_2: "subnet-7b61211e"
+        listeners: ["7100"]
+        services:
+            - service-touchnet: https://git.ellucian.com/scm/cloudops/service-touchnet.git@master
